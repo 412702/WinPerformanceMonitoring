@@ -6,6 +6,7 @@ Function: use powershell to monitor the logical kernel and memory usage of windo
 
 ## 首先看一下效果，如下图
 
+![image](https://user-images.githubusercontent.com/44056689/206975353-9b178cf3-6c58-4620-8f54-ecca8645014f.png)
 
 
 ## 为什么要搞这个小不点玩意？
